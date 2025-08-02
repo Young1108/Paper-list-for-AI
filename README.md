@@ -34,21 +34,43 @@ From Ilya Sutskever Recommended Reading + Other Influential Papers
 26. **[Kolmogorov Complexity]** [Kolmogorov Complexity: Page 434 onward (Shen, Uspensky, Vereshchagin)](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf)
 27. **[CNN Course]** [CS231n: CNNs for Visual Recognition (Stanford)](https://cs231n.github.io/)
 
-
 ---
+
+## 📚 Other Influential Papers
+参考生命架构平台 LifeArchitect.ai 推荐的外部重要论文，补充 Ilya 原始列表之外的重要资源：
+
+- **[GPT-4 Overview]** [GPT‑4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf) ― OpenAI, 2023
+- **[System Safety]** [GPT‑4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf) ― OpenAI, 2023
+- **[PaLM 2 Overview]** [PaLM 2 Technical Report](https://storage.googleapis.com/deepmind-media/palm2techreport/palm2.pdf) ― Google, 2023
+- **[Sparks of AGI]** [Sparks of Artificial General Intelligence: Early Experiments with GPT‑4](https://arxiv.org/pdf/2303.12712.pdf) ― Bubeck et al., 2023
+- **[GPT‑4.5 Preview]** [GPT‑4.5 “Orion” Overview](https://openai.com/index/hello-gpt-4o) ― OpenAI, Feb 2025
+- **[GPT‑4.1 Updates]** [GPT‑4.1 Overview](https://openai.com/index/hello-gpt-4o) ― OpenAI, Apr 2025
+
+- **[Claude 3 Model Card]** [Claude 3 Opus](https://www.anthropic.com/claude-3-model-card) ― Anthropic, 2024
+- **[Gemini 1.0]** [Gemini Technical Report](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) ― Google DeepMind, 2023
+- **[PaLM 1.0]** [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) ― Chowdhery et al., 2022
+- **[Chinchilla Scaling Law]** [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf) ― Hoffman et al., 2022
+- **[Generalist Agent]** [Gato: A Generalist Agent](https://arxiv.org/pdf/2205.06175.pdf) ― Reed et al., 2022
+- **[LLM-Robot Interface]** [Do As I Can, Not As I Say](https://arxiv.org/pdf/2204.01691.pdf) ― Ahn et al., 2022
+- **[Transformer Algorithms]** [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf) ― Phuong & Hutter, DeepMind, 2022
+
+- **[GPT-3 Foundation]** [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) ― Brown et al., 2020
+- **[GPT-2 Scaling]** [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) ― Radford et al., 2019
+- **[GPT-1 Proposal]** [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) ― Radford et al., 2018
+
+- **[RoBERTa]** [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf) ― Liu et al., 2019
+- **[BERT]** [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/pdf/1810.04805.pdf) ― Devlin et al., 2019
+- **[ULMFiT]** [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/pdf/1801.06146.pdf) ― Howard & Ruder, 2018
+
+- **[Transformer Origin]** [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf) ― Vaswani et al., 2017
+
+- **[Perceptron Controversy]** [A Sociological Study of the Official History of the Perceptrons Controversy](https://www.dsi.unive.it/~ml/Olazaran1996.pdf) ― Olazaran, 1996
+- **[Turing Test]** [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) ― Alan Turing, 1950
+
+- **[Early AI Vision]** [Intelligent Machinery (Turing, 1948)](https://www.aisb.org.uk/publications/aisbquarterly/aisbq112.pdf) — Rediscovered & typed by ‘Gabriel’  
+
 
 ## 🔗 Credits
 
 - Based on public share by Ilya Sutskever to John Carmack.
 - Curated by the community with ❤️.
-
-
-## 📚 Other Influential Papers (via LifeArchitect.ai)
-参考生命架构平台 LifeArchitect.ai 推荐的外部重要论文，补充 Ilya 原始列表之外的重要资源：
-
-- **[GPT‑4 Technical Report](Other-Influential-Papers/GPT-4_Technical_Report/README.md)** ― OpenAI 2023 (PDF)
-- **[GPT‑4 System Card](Other-Influential-Papers/GPT-4_System_Card/README.md)** ― OpenAI 2023 (PDF)
-- **[PaLM 2 Technical Report](Other-Influential-Papers/PaLM2_Technical_Report/README.md)** ― Google 2023 (PDF)
-- **[Sparks of AGI: early GPT‑4 experiments](Other-Influential-Papers/Sparks_AGI_GPT4/README.md)** ― Bubeck et al. 2023
-- **[GPT‑4.5 “Orion” Overview](Other-Influential-Papers/GPT-4.5_Orion/README.md)** ― OpenAI Feb 2025
-- **[GPT‑4.1 Overview](Other-Influential-Papers/GPT-4.1/README.md)** ― OpenAI Apr 2025
