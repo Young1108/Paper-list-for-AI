@@ -69,6 +69,10 @@ From Ilya Sutskever Recommended Reading + Other Influential Papers
 
 - **[Early AI Vision]** [Intelligent Machinery (Turing, 1948)](https://www.aisb.org.uk/publications/aisbquarterly/aisbq112.pdf) — Rediscovered & typed by ‘Gabriel’  
 
+---
+
+## From my Zotero
+- **[ViT]** [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 ## 🔗 Credits
 
